@@ -1,12 +1,6 @@
 # teamredminer v0.9.4.2
 This is an optimized miner for AMD GPUs and Xilinx FPGAs created by todxx and kerney666.
 
-**Download is available in the [github releases section](https://github.com/todxx/teamredminer/releases).**
-
-TRM official website: https://www.teamredminer.com
-
-TRM discord server: https://discord.gg/RGykKqB
-
 Below is a list of mining operating systems and management software that have built-in support for teamredminer:
  - [MMPOS](https://mmpos.eu/)
  - [SimpleMining OS](https://simplemining.net/)
