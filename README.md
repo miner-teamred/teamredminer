@@ -1,14 +1,4 @@
 # teamredminer v0.9.4.2
-This is an optimized miner for AMD GPUs and Xilinx FPGAs created by todxx and kerney666.
-
-Below is a list of mining operating systems and management software that have built-in support for teamredminer:
- - [MMPOS](https://mmpos.eu/)
- - [SimpleMining OS](https://simplemining.net/)
- - [Hive OS](https://hiveos.farm/)
- - [Minerstat](https://minerstat.com/)
- - [Awesome Miner](https://www.awesomeminer.com/)
- - [PiMP OS](https://getpimp.org/)
- - [RaveOS](https://raveos.com/)
 
 This miner supports a range of algorithms.  Please see the list below for details.
 The miner is configured via command line only, please run with the --help option to print a short help message for how to use the command line options.
